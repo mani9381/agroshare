@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 export default function Home() {
   return (
-    <div>
+    
         <div className='home-conatiner'>
             <div className='nav-container'>
                 <div className="logo">
@@ -15,10 +15,10 @@ export default function Home() {
                 </div>
             </div>
             <div className='home-body'>
-                isuhriuhyiuh
+                
             </div>
 
         </div>
-    </div>
+    
   )
 }
